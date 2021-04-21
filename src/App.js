@@ -21,7 +21,7 @@ const App = () => {
 
   return (
     <div>
-      <h1>Hi</h1>
+      <h1>Alan AI react application</h1>
       <NewsCards articles={newsArticles} />
     </div>
   );
